@@ -50,6 +50,8 @@ CSGO2 Cheat is a C++ project designed to enhance your gaming experience in the p
 
 ## Preview
 
+![img](https://github.com/CCs2s/CS2-External-Cheat/assets/169404119/52a65459-38e2-477f-b2cc-39fbee37d455)
+
 ## Contributions
 
 Star this Repo to Contribute
